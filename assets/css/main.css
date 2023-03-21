@@ -1932,7 +1932,7 @@ input, select, textarea {
 			font-weight: 400;
 			color: #888;
 			margin: 2.5em 0 0 0;
-			font-size: 3em;
+			font-size: 0.85em;
 			letter-spacing: 3px;
 			text-align: center;
 		}
@@ -2550,7 +2550,7 @@ input, select, textarea {
 		/* Basic */
 
 			body, input, textarea, select {
-				font-size: 11pt;
+				font-size: 14pt;
 			}
 
 			h2, h3, h4, h5, h6 {
