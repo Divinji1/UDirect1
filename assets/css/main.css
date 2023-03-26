@@ -126,7 +126,7 @@ input, select, textarea {
 	}
 
 	h3 {
-		font-size: 1em;
+		font-size: 1.5em;
 		letter-spacing: 2px;
 		margin: 0 0 1.25em 0;
 	}
@@ -157,10 +157,6 @@ input, select, textarea {
 				color: #c5631d;
 			}
 
-	strong, b {
-		font-weight: 600;
-		color: #666;
-	}
 
 	em, i {
 		font-style: italic;
@@ -1931,8 +1927,8 @@ input, select, textarea {
 			text-transform: uppercase;
 			font-weight: 400;
 			color: #888;
-			margin: 2.5em 0 0 0;
-			font-size: 5em;
+			margin: 2em 0 0 0;
+			font-size: 1.75em;
 			letter-spacing: 3px;
 			text-align: center;
 		}
