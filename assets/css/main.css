@@ -2111,7 +2111,7 @@ input, select, textarea {
 
 		#banner p {
 			font-weight: 400;
-			font-size: 2em;
+			font-size: 1.5em;
 			line-height: 1.5em;
 			letter-spacing: 4px;
 			text-align: center;
@@ -2132,10 +2132,10 @@ input, select, textarea {
 				position: absolute;
 				top: 50%;
 				width: 35px;
-				height: 141px;
-				margin-top: -70px;
+				height: 148px;
+				margin-top: -90px;
 				background: url("images/bracket.svg");
-				opacity: 0.15;
+				opacity: 0.50;
 			}
 
 			#banner > .container:before {
