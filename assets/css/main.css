@@ -2132,10 +2132,10 @@ input, select, textarea {
 				position: absolute;
 				top: 50%;
 				width: 35px;
-				height: 148spx;
-				margin-top: -90px;
+				height: 149spx;
+				margin-top: -70px;
 				background: url("images/bracket.svg");
-				opacity: 0.50;
+				opacity: 0.15;
 			}
 
 			#banner > .container:before {
