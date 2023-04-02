@@ -2085,6 +2085,7 @@ input, select, textarea {
 
 		#features p {
 			text-align: center;
+			font-size: 15pt;
 		}
 
 		#features ul.actions {
